@@ -2,3 +2,6 @@ Curso de Git y GitHub Fundamentos
 Aprende a utilizar Git, el sistema de control de versiones más popular y GitHub el servicio más popular para compartir código.
 https://devcode.la/cursos/git/
 https://www.youtube.com/watch?v=Qn186NyDqOk
+
+se agrega tutorial 
+2017-02-TALLER-IS/AUTORES2
